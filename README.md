@@ -79,14 +79,8 @@ The analysis also prints performance metrics including mean absolute error, maxi
 ![tracking_comparison](https://github.com/user-attachments/assets/ff236d46-d118-4ee0-8ad1-99dace3d9e26)
 ![time_varying_analysis](https://github.com/user-attachments/assets/a1ba825e-9320-448a-af7e-0f515d051153)
 ![phase_portrait_analysis](https://github.com/user-attachments/assets/72ffd720-2b3b-428c-82bb-a5ba8f118c04)
+![image](https://github.com/user-attachments/assets/655b099f-dc67-48a1-b206-65c878948bdd)
 
-                      Min-Max NMPC    Standard NMPC   Improvement (%)
-Max Abs Error:          0.332861        0.518614           35.82%
-Mean Abs Error:         0.152236        0.260432           41.54%
-Std Error:              0.086783        0.143266           39.43%
-Mean CPU Time:          0.026088        0.016074          -62.30%
-Max CPU Time:           0.150031        0.044320         -238.52%
-Control Energy:        22.330115       22.709148            1.67%
 
 
 ## Requirements
