@@ -66,26 +66,21 @@ The implementation generates five comparative visualizations:
 4. Computation time comparison
 5. Phase portrait comparison
 
-The analysis also prints performance metrics including mean absolute error, maximum absolute error, and average computation time.
 
+The analysis also prints performance metrics including mean absolute error, maximum absolute error, and average computation time.
+![computation_time_analysis](https://github.com/user-attachments/assets/ec4a4aa0-c580-468e-b451-6c0da7c2f390)
+![error_distribution](https://github.com/user-attachments/assets/19bd4ab9-7482-4333-82a1-660e432e3557)
+![control_analysis](https://github.com/user-attachments/assets/e1110915-d3af-4dde-bc4a-d34a31d017de)
+![tracking_comparison](https://github.com/user-attachments/assets/ff236d46-d118-4ee0-8ad1-99dace3d9e26)
+![time_varying_analysis](https://github.com/user-attachments/assets/a1ba825e-9320-448a-af7e-0f515d051153)
+![phase_portrait_analysis](https://github.com/user-attachments/assets/72ffd720-2b3b-428c-82bb-a5ba8f118c04)
 ## Requirements
+
 
 - MATLAB (developed and tested with MATLAB R2020b or later)
 - Optimization Toolbox (for `fmincon`)
 
-## Citation
 
-If you use this code in your research, please cite:
-
-```
-@misc{minmax_nmpc,
-  author = {Author},
-  title = {Min-Max NMPC for Robust Nonlinear Tracking Control},
-  year = {2023},
-  publisher = {GitHub},
-  howpublished = {\url{https://github.com/username/min-max-nmpc}}
-}
-```
 
 ## License
 
